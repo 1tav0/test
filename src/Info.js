@@ -19,6 +19,10 @@ const Info = () => {
     </div>
   )
 }
+<<<<<<< HEAD
 //changed also in master
 
+=======
+//new change for branching and merging purposese
+>>>>>>> new-branch
 export default Info

@@ -19,5 +19,5 @@ const Info = () => {
     </div>
   )
 }
-
+//new change for branching and merging purposese
 export default Info
